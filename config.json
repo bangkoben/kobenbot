@@ -1,0 +1,9 @@
+{
+	"ip":"bangkobensmp.aternos.me",
+	"port": "28122",
+	"name": "Xiero_",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (serversurvival123)",
+	"login-cmd":"/login (serversurvival123)"
+}
